@@ -1,0 +1,10 @@
+[default]
+name=Default
+runtime=host
+config-opts=
+run-opts=
+prefix=/home/xforce/.cache/gnome-builder/install/cpp/host
+app-id=
+postbuild=
+prebuild=
+default=true
